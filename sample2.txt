@@ -1,1 +1,3 @@
-isample2 file is created
+sample2 file is created
+enter the etials to sample2 file
+
