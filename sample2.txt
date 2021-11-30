@@ -2,3 +2,5 @@ sample2 file is created
 enter the etials to sample2 file
 this line is add for PR 
 aing the ssh pub key  into git hub
+
+this line adddde for testing confugre git an jenkins
