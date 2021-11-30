@@ -3,4 +3,5 @@ enter the etials to sample2 file
 this line is add for PR 
 aing the ssh pub key  into git hub
 
+vishnu vishnu vishnu
 this line adddde for testing confugre git an jenkins
